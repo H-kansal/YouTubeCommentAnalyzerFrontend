@@ -5,3 +5,4 @@ emoji
 matplotlib
 seaborn
 plotly
+wordcloud
